@@ -1,5 +1,5 @@
 node_modules/
-.app/api/constant.js
+app/api/constant.js
 .expo/
 dist/
 npm-debug.*
