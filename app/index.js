@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import axios from 'axios'
-import { BASE_URL, API_KEY } from './api/constant'
+import { BASE_URL, API_KEY } from '../api/constant'
 import { View, StyleSheet, ActivityIndicator, Text } from 'react-native'
 import { Provider as PaperProvider, Appbar } from 'react-native-paper'
 import WeatherSearch from './components/weatherSearch'

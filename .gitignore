@@ -1,5 +1,4 @@
 node_modules/
-app/api/constant.js
 .expo/
 dist/
 npm-debug.*
@@ -10,6 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.api/
 
 # macOS
 .DS_Store
